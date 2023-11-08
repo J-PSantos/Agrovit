@@ -87,8 +87,9 @@ body {
 }
 
 .conteudo-principal-imagem {
+  margin-top: 20px;
   height: 430px;
-  border-radius:40px;
+  border-radius:25px;
 }
 
 .conteudo-secundario {
